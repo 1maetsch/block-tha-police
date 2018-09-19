@@ -1,6 +1,11 @@
 # Block tha Police
 Blockliste für dt. Polizei-Accounts auf Twitter.
 
+## Anleitung
+1. [CSV-Datei herunterladen](https://raw.githubusercontent.com/1maetsch/block-tha-police/master/block-tha-police.csv)
+2. [CSV-Datei importieren](https://help.twitter.com/en/using-twitter/advanced-twitter-block-options)
+
+## Accounts
 | Name | ID | Link |
 |---|---|---|
 | @bpol_b | 4876039738 | https://twitter.com/bpol_b |
